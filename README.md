@@ -24,3 +24,5 @@
 - Crear entornos Virtuales en Linux
 - Qué es Docker
 - Dockerizar Python
+
+Por: Juan Carlos Morales Guerra
