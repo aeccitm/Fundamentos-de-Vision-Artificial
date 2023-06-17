@@ -1,4 +1,4 @@
-# FUNDAMENTOS DE PYTHON (PROGRAMACIÓN ORIENTADA A OBJETOS, ENTORNOS VIRTUALES)
+# FUNDAMENTOS DE PYTHON (PROGRAMACIÓN ORIENTADA A OBJETOS, GUI TKINTER)
 
 ## PROGRAMACIÓN ORIENTADA A OBJETOS
 - ¿Qué es la Programación Orientada a Objetos?
@@ -17,12 +17,10 @@
 - Encapsulamiento
 - Generar Polimorfismos
 
-## ENTORNOS VIRTUALES
-- Para qué sirven los Entornos Virtuales
-- Virtualenv
-- Crear entornos Virtuales en Windows
-- Crear entornos Virtuales en Linux
-- Qué es Docker
-- Dockerizar Python
+## GUI TKINTER
+- Que es GUI
+- Tkinter
+- Crear las primeras ventanas con tkinter
+
 
 Por: Juan Carlos Morales Guerra
