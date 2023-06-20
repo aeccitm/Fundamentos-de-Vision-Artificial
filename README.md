@@ -1,5 +1,4 @@
-# Fundamentos-de-Vision-Artificial
-Clases-Visión Artificial
+# Fundamentals of Artificial Vision
 
 # Application of Hu Moments for Classification using Linearly Polarized Images
 
@@ -15,9 +14,7 @@ In this second example, we provide a Matlab code that focuses on hologram recons
 
 The third example consists of a maize disease classification model using a Support Vector Machine (SVM). We provide a code that trains and evaluates an SVM model to classify images of maize diseases into different categories. SVM is a supervised machine learning technique that can be highly useful for early diagnosis of plant diseases.
 
-Part 1 
-Generation of the satos base from local binary patterns 
+Part 1: Generation of the satos base from local binary patterns 
 
 
-Part 2 
-SMV model 
+Part 2: SMV model 
