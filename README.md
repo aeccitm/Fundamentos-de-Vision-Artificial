@@ -11,10 +11,13 @@ In this example, we present a code that utilizes Hu moments as features for clas
 In this second example, we provide a Matlab code that focuses on hologram reconstruction using the Fourier transform. Holograms are records of optical interference that contain three-dimensional information about an object. This code demonstrates how to apply the inverse Fourier transform to reconstruct the original image from the hologram.
 
 
-# Maize Disease Classification Model using SVM-
-
-part 1 
+# Maize Disease Classification Model using SVM
 
 The third example consists of a maize disease classification model using a Support Vector Machine (SVM). We provide a code that trains and evaluates an SVM model to classify images of maize diseases into different categories. SVM is a supervised machine learning technique that can be highly useful for early diagnosis of plant diseases.
 
-part 2 
+Part 1 
+Generation of the satos base from local binary patterns 
+
+
+Part 2 
+SMV model 
