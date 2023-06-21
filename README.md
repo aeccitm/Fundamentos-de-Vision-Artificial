@@ -7,6 +7,7 @@ This repository contains several examples of computer vision applications that d
 In this example, we present a code that utilizes Hu moments as features for classifying linearly polarized images. Hu moments are a set of invariant moments used in pattern recognition and image analysis. In this case, they are applied to linearly polarized images to identify and classify different patterns.
 
 **class link**: https://www.youtube.com/watch?v=EEd0OTXXajs&list=PLo0eLkOs7TpDP4J7slQ5c7f7nXlGVwV53
+
 **class link**: https://www.youtube.com/watch?v=J9KDCe3ZOlo&list=PLo0eLkOs7TpDP4J7slQ5c7f7nXlGVwV53&index=2
 
 # Hologram Reconstruction using Fourier Transform
