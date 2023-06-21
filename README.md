@@ -23,10 +23,15 @@
 - Crear las primeras ventanas con tkinter
 
 https://youtu.be/GYil1oqFhnw
+
 https://youtu.be/bBXoe1L4RSM
+
 https://youtu.be/T6PtKNoVXEo
+
 https://youtu.be/2ZJ3PUEBC1E
+
 https://youtu.be/NKQcLw08TMQ
+
 https://youtu.be/tNQffgNielk
 
 Por: Juan Carlos Morales Guerra
