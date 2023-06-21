@@ -29,4 +29,4 @@ Part 2: SMV model
 **class link**:
 
 
-# CLASSES DEVELOPED BY: Juan Soto Perdomo
+**CLASSES DEVELOPED BY: Juan Soto Perdomo**
