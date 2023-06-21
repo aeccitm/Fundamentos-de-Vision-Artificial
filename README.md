@@ -27,3 +27,6 @@ Part 1: Generation of the satos base from local binary patterns
 Part 2: SMV model 
 
 **class link**:
+
+
+# CLASSES DEVELOPED BY: Juan Soto Perdomo
