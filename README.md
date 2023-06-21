@@ -13,6 +13,3 @@ Proyecto2: Fundamentos de visión artificial-Parte 1.
 
 Proyecto3: Fundamentos de visión artificial-Parte 2.
 
-Requisitos
-Antes de ejecutar los códigos de los proyectos, asegúrate de tener instalado lo siguiente:
-Python 3 (versión 10)
