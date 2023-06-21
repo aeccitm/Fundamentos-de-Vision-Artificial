@@ -7,9 +7,9 @@ Este repositorio contiene los códigos desarrollados durante el curso de Program
 **Contenido del repositorio**
 El repositorio se organiza de la siguiente manera:
 
-Proyecto1: Programación orientada a objetos
+Proyecto 1: Programación orientada a objetos
 
-Proyecto2: Fundamentos de visión artificial-Parte 1.
+Proyecto 2: Fundamentos de visión artificial-Parte 1.
 
-Proyecto3: Fundamentos de visión artificial-Parte 2.
+Proyecto 3: Fundamentos de visión artificial-Parte 2.
 
